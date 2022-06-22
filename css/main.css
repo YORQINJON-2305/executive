@@ -54,6 +54,7 @@ body{
 
 .banner{
     display: flex;
+    margin-top: 140px;
 }
 
 .banner-title{
